@@ -929,7 +929,7 @@
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="69"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1338"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1359"/>
         <source>Export As</source>
         <translation>Exportovat jako</translation>
     </message>
@@ -1485,7 +1485,7 @@
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="917"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="658"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="660"/>
         <source>Start Recording</source>
         <translation>Začít nahrávání</translation>
     </message>
@@ -1976,125 +1976,125 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="363"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="365"/>
         <source>Go to line</source>
         <translation>Přejít na řádek</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="363"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="365"/>
         <source>Line Number (1 - %1)</source>
         <translation>Číslo řádku (1 – %1)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="649"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="651"/>
         <source>Stop Recording</source>
         <translation>Zastavit nahrávání</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="754"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="756"/>
         <source>Debug Info</source>
         <translation>Debug Info</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="932"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="952"/>
         <source>New %1</source>
         <translation>Nový %1</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="991"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1012"/>
         <source>Create File</source>
         <translation>Vytvořit soubor</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="991"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1012"/>
         <source>&lt;b&gt;%1&lt;/b&gt; does not exist. Do you want to create it?</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; neexistuje. Chcete jej vytvořit?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1032"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1130"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1053"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1151"/>
         <source>Save file &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Uložit soubor &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1033"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1131"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1054"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1152"/>
         <source>Save File</source>
         <translation>Uložit soubor</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1086"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1107"/>
         <source>Open Folder as Workspace</source>
         <translation>Otevřít složku jako pracovní prostor</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1104"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1125"/>
         <source>Reload File</source>
         <translation>Znovu načíst soubor</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1104"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1125"/>
         <source>Are you sure you want to reload &lt;b&gt;%1&lt;/b&gt;? Any unsaved changes will be lost.</source>
         <translation>Opravdu chcete znovu načíst &lt;b&gt;%1&lt;/b&gt;? Všechny neuložené změny budou ztraceny.</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1305"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1326"/>
         <source>Save a Copy As</source>
         <translation>Uložit kopii jako</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1379"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1394"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1400"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1415"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1394"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1415"/>
         <source>Name:</source>
         <translation>Jméno:</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1414"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1435"/>
         <source>Delete File</source>
         <translation>Smazat soubor</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1414"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1435"/>
         <source>Are you sure you want to move &lt;b&gt;%1&lt;/b&gt; to the trash?</source>
         <translation>Opravdu chcete přesunout &lt;b&gt;%1&lt;/b&gt; do koše?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1424"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1445"/>
         <source>Error Deleting File</source>
         <translation>Chyba při mazání souboru</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1424"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1445"/>
         <source>Something went wrong deleting &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Při mazání &lt;b&gt;%1&lt;/b&gt; se něco pokazilo?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1521"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1542"/>
         <source>Administrator</source>
         <translation>Administrator</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1796"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1817"/>
         <source>Error Saving File</source>
         <translation>Chyba při ukládání souboru</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1796"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1817"/>
         <source>An error occurred when saving &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Error: %2</source>
         <translation>Při ukládání &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Chyba: %2 došlo k chybě</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1802"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1823"/>
         <source>Zoom: %1%</source>
         <translation>Lupa: %1%</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1951"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1985"/>
         <source>No updates are available at this time.</source>
         <translation>V tuto chvíli nejsou k dispozici žádné aktualizace.</translation>
     </message>

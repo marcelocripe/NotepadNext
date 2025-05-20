@@ -924,7 +924,7 @@
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="69"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1338"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1359"/>
         <source>Export As</source>
         <translation>Exportar como</translation>
     </message>
@@ -1480,7 +1480,7 @@
     </message>
     <message>
         <location filename="../src/NotepadNext/dialogs/MainWindow.ui" line="917"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="658"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="660"/>
         <source>Start Recording</source>
         <translation>Iniciar gravação</translation>
     </message>
@@ -1973,125 +1973,125 @@
         <translation>Eliminar linhas com marcadores</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="363"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="365"/>
         <source>Go to line</source>
         <translation>Ir para a linha</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="363"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="365"/>
         <source>Line Number (1 - %1)</source>
         <translation>Número da linha (1 - %1)</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="649"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="651"/>
         <source>Stop Recording</source>
         <translation>Parar gravação</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="754"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="756"/>
         <source>Debug Info</source>
         <translation>Informações de depuração</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="932"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="952"/>
         <source>New %1</source>
         <translation>Novo %1</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="991"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1012"/>
         <source>Create File</source>
         <translation>Criar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="991"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1012"/>
         <source>&lt;b&gt;%1&lt;/b&gt; does not exist. Do you want to create it?</source>
         <translation>&lt;b&gt;%1&lt;/b&gt; não existe. Pretende criá-lo?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1032"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1130"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1053"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1151"/>
         <source>Save file &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Guardar ficheiro &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1033"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1131"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1054"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1152"/>
         <source>Save File</source>
         <translation>Guardar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1086"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1107"/>
         <source>Open Folder as Workspace</source>
         <translation>Abrir pasta como área de trabalho</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1104"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1125"/>
         <source>Reload File</source>
         <translation>Recarregar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1104"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1125"/>
         <source>Are you sure you want to reload &lt;b&gt;%1&lt;/b&gt;? Any unsaved changes will be lost.</source>
         <translation>Tem certeza de que pretende recarregar o &lt;b&gt;%1&lt;/b&gt;? Todas as alterações não guardadas serão perdidas.</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1305"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1326"/>
         <source>Save a Copy As</source>
         <translation>Guardar uma cópia como</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1379"/>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1394"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1400"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1415"/>
         <source>Rename</source>
         <translation>Renomear</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1394"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1415"/>
         <source>Name:</source>
         <translation>Nome:</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1414"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1435"/>
         <source>Delete File</source>
         <translation>Eliminar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1414"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1435"/>
         <source>Are you sure you want to move &lt;b&gt;%1&lt;/b&gt; to the trash?</source>
         <translation>Tem a certeza de que pretende mover &lt;b&gt;%1&lt;/b&gt; para o lixo?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1424"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1445"/>
         <source>Error Deleting File</source>
         <translation>Erro ao eliminar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1424"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1445"/>
         <source>Something went wrong deleting &lt;b&gt;%1&lt;/b&gt;?</source>
         <translation>Algo correu mal ao eliminar &lt;b&gt;%1&lt;/b&gt;?</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1521"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1542"/>
         <source>Administrator</source>
         <translation>Administrador</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1796"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1817"/>
         <source>Error Saving File</source>
         <translation>Erro ao guardar ficheiro</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1796"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1817"/>
         <source>An error occurred when saving &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Error: %2</source>
         <translation>Ocorreu um erro ao guardar &lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Erro: %2</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1802"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1823"/>
         <source>Zoom: %1%</source>
         <translation>Zoom: %1%</translation>
     </message>
     <message>
-        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1951"/>
+        <location filename="../src/NotepadNext/dialogs/MainWindow.cpp" line="1985"/>
         <source>No updates are available at this time.</source>
         <translation>De momento, não há atualizações disponíveis.</translation>
     </message>
